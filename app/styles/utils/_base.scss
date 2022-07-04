@@ -16,7 +16,7 @@ body {
   line-height: 100%;
   color: $black;
   background-color: $white;
-  overflow-x: hidden;
+	min-height: 100vh;
   height: auto;
   min-width: #{screen(xxs)};
 	scroll-behavior: smooth;

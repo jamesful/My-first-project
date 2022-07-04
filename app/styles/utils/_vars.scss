@@ -1,0 +1,30 @@
+// FONTS
+$primary-font: 'Montserrat', sans-serif;
+
+// COLORS
+$white: #ffffff;
+$black: #000000;
+
+//CONRAINER
+$containerWidth: 1320;
+
+//COLORS
+$primary: #03283C;
+$secondary: #FF6200;
+$white: #ffffff;
+$black: #000000;
+$neutral: #08699E;
+$neutralLight:  #D6EFFD;
+$primaryDark: #010D14;
+
+// BREAKPOINTS
+$breakpoints: (
+  retina: 2560px,
+  xxl: 1920px,
+  xl: 1440px,
+  lg: 1200px,
+  md: 1024px,
+  sm: 768px,
+  xs: 576px,
+  xxs: 280px
+);

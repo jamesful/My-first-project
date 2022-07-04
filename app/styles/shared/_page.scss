@@ -1,0 +1,19 @@
+.page {
+	font-family: $primary-font;
+  line-height: 100%;
+  color: $black;
+  background-color: $white;
+	min-height: 100vh;
+  height: auto;
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+}
+
+.page__header {
+}
+
+.page__content {
+}
+
+.page__footer {
+}
